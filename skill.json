@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agentic-commerce-agent-gateway-verifier-skill",
+  "version": "1.0.0",
+  "description": "GenPark Agentic Commerce Agent Gateway Verifier - Authenticates legitimate consumer shopping agents and prevents scraper abuse using cryptographic proof-of-delegation.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "agentic-commerce",
+    "agent-gateway",
+    "bot-defense",
+    "proof-of-delegation",
+    "mcp"
+  ]
+}
