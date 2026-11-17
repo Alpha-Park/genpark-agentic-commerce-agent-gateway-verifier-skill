@@ -83,7 +83,7 @@ Add to your `claude_desktop_config.json` or agent runner config:
   "mcpServers": {
     "genpark-agentic-commerce-agent-gateway-verifier-skill": {
       "command": "python",
-      "args": ["path/to/genpark-agentic-commerce-agent-gateway-verifier-skill/mcp_server.py"]
+      "args": ["/absolute/path/to/genpark-agentic-commerce-agent-gateway-verifier-skill/mcp_server.py"]
     }
   }
 }
